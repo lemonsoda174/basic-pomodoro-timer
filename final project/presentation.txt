@@ -1,0 +1,22 @@
+Hi everyone!
+
+This is the introduction to my final project with CS50P!
+Project name: Pomodoro Timer
+Usage: For management of study time
+
+You may have heard of the Pomodoro technique for studying. The most popular one is called the 25/5 technique, 
+where you split your studying time into distinct sessions of 25 minutes, each followed by a 5-minute break. 
+This method is meant to make studying more effective.
+
+With this concept, I am interested in creating an application that can help myself (and anyone interested :D ) 
+to manage my time with a digital clock.
+
+The final project is just the starting point, as in the future I want to improve my program and pair it with a 
+physical clock (which can also be controlled via the application)
+
+I hope you have a good time!
+
+now lets try out the application!!!
+
+i hope this application helps anyone who is interested. please recommend me some additional features i can add.
+thanks for watching!!!

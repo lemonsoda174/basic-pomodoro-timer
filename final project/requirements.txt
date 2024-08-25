@@ -1,0 +1,8 @@
+libraries used for project:
+re
+time
+threading
+tkinter
+
+sys
+pytest
